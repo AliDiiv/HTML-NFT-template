@@ -17,7 +17,7 @@ This is a responsive HTML template designed for showcasing NFT (Non-Fungible Tok
 ## Preview
 Here’s a preview of the NFT website template:
 
-![NFT Website Preview](img/nft-template-preview.png)
+![NFT Website Preview](nft-template-preview.png)
 
 ## How to Use
 1. Clone or download the repository.
