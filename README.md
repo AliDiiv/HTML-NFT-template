@@ -7,12 +7,11 @@ This is a responsive HTML template designed for showcasing NFT (Non-Fungible Tok
 - Clean and modern user interface
 - NFT showcase section
 - Easy to customize
-- Includes CSS, JS, and font files
+- Includes CSS, and font files
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
 ## Preview
 Here’s a preview of the NFT website template:
